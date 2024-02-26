@@ -1,5 +1,15 @@
-html {
+body {
     width: 60vw;
     max-width: 900px;
     min-width: 300px;
+}
+
+.welcome {
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.intro {
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
 }
